@@ -1,6 +1,6 @@
 # thkafa
 
-A new Flutter project.
+An application to test a person's culture with simple questions 
 
 ## Getting Started
 
